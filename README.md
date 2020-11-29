@@ -6,3 +6,4 @@ kinda first repo here. made many locally though.
 
 
 
+check out the site here- arnavjindal.github.io
