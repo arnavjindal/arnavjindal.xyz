@@ -6,4 +6,4 @@ kinda first repo here. made many locally though.
 
 
 
-check out the site here- arnavjindal.github.io
+check out the site here- <a href = "https://arnavjindal.github.io/">AJ's site</a>
