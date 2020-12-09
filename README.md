@@ -6,4 +6,4 @@ kinda first repo here. made many locally though.
 
 
 
-check out the site <a href = "https://arnavjindal.xyz/" target="_blank">Here</a>.
+check out the site <a href = "https://arnavjindal.xyz/" target="_blank" >Here</a>.
