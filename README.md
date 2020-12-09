@@ -1,6 +1,7 @@
-# Mysite
+# Website
 
 :man_technologist:
+
 firstly made, random site made within 30secs with bootstrap docs. 
 
 have been continuously making changes to the site.
