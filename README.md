@@ -1,9 +1,13 @@
 # Mysite
-Website starter
-random site made within 30secs with bootstrap docs. 
-trying to learn distributed VCS.
-kinda first repo here. made many locally though.
+
+:man_technologist:
+firstly made, random site made within 30secs with bootstrap docs. 
+
+have been continuously making changes to the site.
+
+:man_shrugging:
+check out the site [Here](https://arnavjindal.xyz).
+
+:man_technologist:
 
 
-
-check out the site <a href = "https://arnavjindal.xyz/" target="_blank">Here</a>.
